@@ -1,0 +1,1 @@
+"./main.obj" "./BSP/_PMM.obj" "./BSP/_SENSOR_SHT21.obj" "./BSP/_msp430fr6989_lanchpad.obj" "./BSP/bsp_cc1101.obj" "./BSP/bsp_led.obj" "./BSP/bsp_spi.obj" "../lnk_msp430fr6989.cmd" -llibmpu_init.a -llibmath.a -llibc.a 
